@@ -1,0 +1,22 @@
+body {
+    background-color: #BACDDB;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+#pictures {
+    width: 500px;
+    height: 700px;
+}
+
+.btn {
+    background-color: #E7AB9A;
+    border: none;
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+
+}
